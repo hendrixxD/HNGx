@@ -30,7 +30,7 @@ SECRET_KEY= 'egvnuewghuqh8'
 DEBUG = 1
 
 # ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS')
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['35.160.120.126', '44.233.151.27', '34.211.200.85',]
 
 load_dotenv(BASE_DIR / '.env')
 
