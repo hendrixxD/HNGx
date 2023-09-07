@@ -18,7 +18,7 @@ def endpoint(request):
     current_utc_time = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
     
     # Construct GitHub URLs
-    github_repo_url = "https://github.com/hendrixxD/HNG-Internship-Task1"
+    github_repo_url = "https://github.com/hendrixxD/HNGx/HNG_1"
     github_file_url = f"{github_repo_url}/blob/main/README.md"
     
     # Create the JSON response
