@@ -1,0 +1,5 @@
+VENV
+*.pyc
+seriallizer.py
+view.py
+.vscode
